@@ -55,8 +55,8 @@ export default {
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">FPS</div>
-                            <p>{{ level.fps || 'Not Submitted' }}</p>
+                            <div class="type-title-sm">Version</div>
+                            <p>{{ level.fps || '2.2' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
