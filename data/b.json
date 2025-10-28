@@ -1,0 +1,18 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "motleyorc",
+    "creators": ["MotleyOrc", "ScorchVx"],
+    "verifier": "Unknown",
+    "verification": "https://www.youtube.com/watch?v=ohKPqGxotao",
+    "percentToQualify": 56,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Unmati3",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
